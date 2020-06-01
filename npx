@@ -1,0 +1,61 @@
+
+Creating a new React app in E:\Projects\NewApp\easy-to-use-online-form\easy-to-use-online-form.
+
+Installing packages. This might take a couple of minutes.
+Installing react, react-dom, and react-scripts with cra-template...
+
+
+> core-js@2.6.11 postinstall E:\Projects\NewApp\easy-to-use-online-form\easy-to-use-online-form\node_modules\babel-runtime\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js@3.6.5 postinstall E:\Projects\NewApp\easy-to-use-online-form\easy-to-use-online-form\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+
+> core-js-pure@3.6.5 postinstall E:\Projects\NewApp\easy-to-use-online-form\easy-to-use-online-form\node_modules\core-js-pure
+> node -e "try{require('./postinstall')}catch(e){}"
+
++ react@16.13.1
++ react-scripts@3.4.1
++ react-dom@16.13.1
++ cra-template@1.0.3
+added 1626 packages from 751 contributors and audited 1630 packages in 217.165s
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Installing template dependencies using npm...
++ @testing-library/jest-dom@4.2.4
++ @testing-library/react@9.5.0
++ @testing-library/user-event@7.2.1
+added 36 packages from 56 contributors and audited 1666 packages in 23.19s
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+Removing template package using npm...
+
+removed 1 package and audited 1665 packages in 10.367s
+found 1 low severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
+
+Success! Created easy-to-use-online-form at E:\Projects\NewApp\easy-to-use-online-form\easy-to-use-online-form
+Inside that directory, you can run several commands:
+
+  npm start
+    Starts the development server.
+
+  npm run build
+    Bundles the app into static files for production.
+
+  npm test
+    Starts the test runner.
+
+  npm run eject
+    Removes this tool and copies build dependencies, configuration files
+    and scripts into the app directory. If you do this, you can’t go back!
+
+We suggest that you begin by typing:
+
+  cd easy-to-use-online-form
+  npm start
+
+Happy hacking!
